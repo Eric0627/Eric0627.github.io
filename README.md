@@ -44,7 +44,6 @@ Install and run:
 
 ```bash
 bundle install
-bundle add webrick
 bundle exec jekyll server
 ```
 View the live page using `localhost`:

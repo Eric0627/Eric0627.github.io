@@ -1,22 +1,33 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: Deciphering complex breakage-fusion-bridge genome rearrangements with Ambigram
+    authors: <strong>Chaohui Li*</strong>, Lingxi Chen*, Guangze Pan, Wenqian Zhang, and Shuai Cheng Li (* joint first authorship)
+    # conference_short: NC
+    conference: Nature Communications, 2023
+    paper: https://doi.org/10.1038/s41467-023-41259-w
+    code: https://github.com/deepomicslab/Ambigram
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/Ambigram.png
+    # notes: Early Accept
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "Somatic variant analysis suite: copy number variation clonal visualization online platform for large-scale single-cell genomics"
+    authors: Lingxi Chen*, Yuhao Qing*, Ruikang Li*, <strong>Chaohui Li</strong>*, Hechen Li, Xikang Feng, and Shuai Cheng Li (* joint first authorship)
+    # conference_short: CVPR
+    conference: Briefings in Bioinformatics, 2021
+    paper: https://doi.org/10.1093/bib/bbab452
+    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    page: https://sc.deepomics.org/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    image: ./assets/img/SVAS.png
+
+  - title: "SCYN: single cell CNV profiling method using dynamic programming"
+    authors: Xikang Feng, Lingxi Chen, Yuhao Qing, Ruikang Li, <strong>Chaohui Li</strong>, Shuai Cheng Li
+    # conference_short: CVPR
+    conference: BMC Genomics, 2021
+    paper: https://doi.org/10.1186/s12864-021-07941-3
+    code: https://github.com/xikanfeng2/SCYN
+    # page: https://sc.deepomics.org/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    image: ./assets/img/SCYN.png
