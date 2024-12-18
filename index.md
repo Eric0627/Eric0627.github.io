@@ -12,7 +12,7 @@ My research interests are in bioinformatics and computational biology, particula
 
 ## News
 
-- **[September 2024]** I gave a talk and a poster presentation on our latest tool ec3D in [ITCR 2024](https://itcr2024.org/){:target="_blank"}. 
+- **[September 2024]** I gave a talk and a poster presentation on our latest tool ec3D at [ITCR 2024](https://itcr2024.org/){:target="_blank"}. 
 - **[September 2023]** Joined the CSE department at UC San Diego as a Ph.D. student. 
 - **[September 2023]** Our [paper](https://www.nature.com/articles/s41467-023-41259-w){:target="_blank"} on breakage-fusion-bridge (BFB) rearrangements has been published in *Nature Communications*.
 

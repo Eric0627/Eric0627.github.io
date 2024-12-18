@@ -11,7 +11,7 @@ main:
     # notes: Early Accept
 
   - title: "Somatic variant analysis suite: copy number variation clonal visualization online platform for large-scale single-cell genomics"
-    authors: Lingxi Chen*, Yuhao Qing*, Ruikang Li*, <strong>Chaohui Li</strong>*, Hechen Li, Xikang Feng, and Shuai Cheng Li (* joint first authorship)
+    authors: Lingxi Chen*, Yuhao Qing*, Ruikang Li*, <strong>Chaohui Li*</strong>, Hechen Li, Xikang Feng, and Shuai Cheng Li (* joint first authorship)
     # conference_short: CVPR
     conference: Briefings in Bioinformatics, 2021
     paper: https://doi.org/10.1093/bib/bbab452
