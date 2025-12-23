@@ -3,8 +3,8 @@ main:
   - title: Reconstructing the three-dimensional architecture of extrachromosomal DNA with ec3D
     authors: Biswanath Chowdhury*, Kaiyuan Zhu*, <strong>Chaohui Li*</strong>, ..., and Vineet Bafna
     # conference_short: preprint
-    conference: bioRxiv, 2025
-    paper: https://doi.org/10.1101/2025.02.01.636064
+    conference: Nature Communications, 2025
+    paper: https://doi.org/10.1038/s41467-025-67614-7
     code: https://github.com/AmpliconSuite/ec3D
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/ec3D.png
