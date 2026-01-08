@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student in Computer Science advised by Prof. [Vineet Bafna](https://jacobsschool.ucsd.edu/node/3480){:target="_blank"} at University of California San Diego, where I also earned a Master's degree in Computer Science. I received a Bachelor's degree in Computer Science from City University of Hong Kong, where I was fortunately advised by Prof. [Shuai Cheng Li](https://www.cs.cityu.edu.hk/~shuaicli/){:target="_blank"}.
+I am a Ph.D. student in Computer Science advised by Prof. [Vineet Bafna](https://vbafna.github.io/){:target="_blank"} at University of California San Diego, where I also earned a Master's degree in Computer Science. I received a Bachelor's degree in Computer Science from City University of Hong Kong, where I was fortunately advised by Prof. [Shuai Cheng Li](https://www.cs.cityu.edu.hk/~shuaicli/){:target="_blank"}.
 
 ## Research Interests
 
