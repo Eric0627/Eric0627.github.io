@@ -1,5 +1,14 @@
 main:
 
+  - title: Detecting and reconstructing breakage-fusion-bridge cycles from long-read sequencing using BFBArchitect
+    authors: <strong>Chaohui Li</strong>, Siavash Raeisi Dehkordi, Daniel Muliaditan, Ramanuj DasGupta, Jens Luebeck, Kaiyuan Zhu, and Vineet Bafna
+    # conference_short: preprint
+    conference: ISMB & Bioinformatics, 2026
+    paper: https://doi.org/10.1093/bioinformatics/btag225
+    code: https://github.com/AmpliconSuite/BFBArchitect
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/BFBArchitect.png
+
   - title: Reconstructing the three-dimensional architecture of extrachromosomal DNA with ec3D
     authors: Biswanath Chowdhury*, Kaiyuan Zhu*, <strong>Chaohui Li*</strong>, ..., and Vineet Bafna
     # conference_short: preprint
