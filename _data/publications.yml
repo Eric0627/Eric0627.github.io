@@ -6,7 +6,7 @@ main:
     conference: ISMB & Bioinformatics, 2026
     paper: https://doi.org/10.1093/bioinformatics/btag225
     code: https://github.com/AmpliconSuite/BFBArchitect
-    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    bibtex: https://scholar.google.com/scholar?q=info:GhD3mXzIOUQJ:scholar.google.com/&output=cite&hl=en
     image: ./assets/img/BFBArchitect.png
 
   - title: Reconstructing the three-dimensional architecture of extrachromosomal DNA with ec3D
@@ -15,7 +15,7 @@ main:
     conference: Nature Communications, 2025
     paper: https://doi.org/10.1038/s41467-025-67614-7
     code: https://github.com/AmpliconSuite/ec3D
-    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    bibtex: https://scholar.google.com/scholar?q=info:ZxmRQD5xcSAJ:scholar.google.com/&output=cite&hl=en
     image: ./assets/img/ec3D.png
     notes: (* joint first authorship, same below)
 
@@ -25,7 +25,7 @@ main:
     conference: Nature Communications, 2023
     paper: https://doi.org/10.1038/s41467-023-41259-w
     code: https://github.com/deepomicslab/Ambigram
-    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    bibtex: https://scholar.google.com/scholar?q=info:0SP__zh56scJ:scholar.google.com/&output=cite&hl=en
     image: ./assets/img/Ambigram.png
     # notes: Early Accept
 
@@ -36,7 +36,7 @@ main:
     paper: https://doi.org/10.1093/bib/bbab452
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     page: https://sc.deepomics.org/
-    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    bibtex: https://scholar.google.com/scholar?q=info:qYqVcclkA6kJ:scholar.google.com/&output=cite&hl=en
     # notes: Oral Presentation
     image: ./assets/img/SVAS.png
 

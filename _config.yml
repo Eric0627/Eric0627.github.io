@@ -1,5 +1,6 @@
 # Basic Information 
 title: Chaohui Li
+page_title: Chaohui Li — Computational Biology | UC San Diego
 position: Ph.D. Student
 affiliation: UC San Diego
 affiliation_short: UCSD
@@ -9,7 +10,7 @@ email: chl221@ucsd.edu
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
 keywords: Chaohui Li
-description: The personal homepage of Chaohui Li.
+description: Chaohui Li is a UC San Diego Ph.D. student in Computer Science, developing algorithms for understanding cancer genome rearrangements, such as breakage–fusion–bridge cycles and extrachromosomal DNA.
 canonical: https://eric0627.github.io/
 
 # Links 
@@ -22,7 +23,8 @@ linkedin: https://www.linkedin.com/in/chaohui-li-2539a214b/
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/avatar.png
+avatar: /assets/img/avatar.jpg
+avatar_absolute: https://eric0627.github.io/assets/img/avatar.jpg
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 
